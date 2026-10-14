@@ -27,7 +27,7 @@
     <PackageReference Include="NuGet.Protocol" Version="7.9.0" />
     <PackageReference Include="Spectre.Console.Cli" Version="0.50.0" />
     <PackageReference Include="Spectre.Console.Json" Version="0.57.2" />
-    <PackageReference Include="ThisAssembly" Version="2.1.5" PrivateAssets="all" />
+    <PackageReference Include="ThisAssembly" Version="2.1.6" PrivateAssets="all" />
   </ItemGroup>
 
   <ItemGroup>
